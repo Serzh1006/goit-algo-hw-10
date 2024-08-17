@@ -5,4 +5,4 @@
 
 ## Результати обчислень
 
-![Alt text] (/img_1.png)
+![Alt text](/screens/img_1.png)
